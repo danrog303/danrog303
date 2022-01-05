@@ -139,5 +139,5 @@ You can ask me anything (within reason). I'm looking forward gain
 experience and collaborate. 😎
 
 ## ℹ Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danrog303&show_icons=true&locale=en&layout=compact" alt="danrog303's stats" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=danrog303&show_icons=true&locale=en" alt="danrog303's stats" /></p>
+<p><img align="left" width="349" src="https://github-readme-stats.vercel.app/api/top-langs?username=danrog303&show_icons=true&locale=en&layout=compact" alt="danrog303's stats" /></p>
+<p><img align="left" width="349" src="https://github-readme-stats.vercel.app/api?username=danrog303&show_icons=true&locale=en" alt="danrog303's stats" /></p>
