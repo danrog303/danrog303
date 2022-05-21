@@ -1,8 +1,13 @@
 # <𝚆𝚎𝚕𝚌𝚘𝚖𝚎/> 𝘁𝗼 𝗺𝘆 𝗽𝗿𝗼𝗳𝗶𝗹𝗲! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<img align="right" src="https://user-images.githubusercontent.com/32397526/148282165-9b463f90-01d9-48e3-ad2c-2a2bd53c4f57.gif" width="200" alt="Octocat, the mascot of GitHub">
-
-Hello! I'm Daniel Rogowski. I study computer science at Bydgoszcz University of Science and Technology. I love programming, especially to explore and learn about new languages and technologies.
+<table border="0">
+    <tr>
+        <td>Hello! I'm Daniel Rogowski. I study computer science at Bydgoszcz University of Science and Technology. I love programming, especially to explore and learn about new languages and technologies.
+</td>
+        <td><img src="https://user-images.githubusercontent.com/32397526/148282165-9b463f90-01d9-48e3-ad2c-2a2bd53c4f57.gif" width="350" alt="Octocat, the mascot of GitHub">
+        </td>
+    </tr>
+    </table>
 
 [![Email](https://img.shields.io/badge/Email-daniel.rogowski@onet.pl-blue.svg)](mailto:daniel.rogowski@onet.pl)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=danrog303&color=blue)
