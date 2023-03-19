@@ -7,8 +7,8 @@
 
 
 ## 💙 I love
+- <img width="20" src="https://raw.githubusercontent.com/github/explore/master/topics/spring/spring.png" alt="Spring" /> Java+Spring (and OOP in general)
 - <img width="20" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python" /> Python
-- <img width="20" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" alt="Docker" /> Docker
 - <img width="20" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" alt="Linux" /> Linux (particularly Artix Linux and other minimalist distributions)
 - <img width="20" src="https://user-images.githubusercontent.com/32397526/148283632-682e20a0-1e5b-4da9-94b7-c8f881a3eba1.png" alt="Open software" /> Open software
 
@@ -20,7 +20,7 @@
             <div>
                 <img src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" width="48" height="48" alt="C#" />
             </div>
-            <br>C#&nbsp;(Core)
+            <br>C#&nbsp;
         </td>
         <td align="center" width="96">
             <div>
@@ -42,9 +42,9 @@
         </td>
         <td align="center" width="96">
             <div>
-                <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" width="48" height="48" alt="JS" />
+                <img src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" width="48" height="48" alt="JS" />
             </div>
-            <br>JS
+            <br>JS/TS
         </td>
         <td align="center" width="96">
             <div>
@@ -69,6 +69,12 @@
                 <img src="https://raw.githubusercontent.com/github/explore/master/topics/selenium/selenium.png" width="48" height="48" alt="Selenium" />
             </div>
             <br>Selenium
+        </td>
+        <td align="center" width="96">
+            <div>
+                <img src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png" width="48" height="48" alt="AWS" />
+            </div>
+            <br>AWS
         </td>
     </tr>
     <tr>
@@ -98,9 +104,9 @@
         </td>
         <td align="center" width="96">
             <div>
-                <img src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" width="48" height="48" alt="PHP" />
+                <img src="https://raw.githubusercontent.com/github/explore/master/topics/spring/spring.png" width="48" height="48" alt="Spring" />
             </div>
-            <br>PHP
+            <br>Spring
         </td>
         <td align="center" width="96">
             <div>
@@ -125,6 +131,12 @@
                 <img src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" width="48" height="48" alt="SQL" />
             </div>
             <br>SQL
+        </td>
+        <td align="center" width="96">
+            <div>
+                <img src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png" width="48" height="48" alt="Angular" />
+            </div>
+            <br>Angular
         </td>
     </tr>
 </table>
